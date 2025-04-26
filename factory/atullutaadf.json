@@ -1,0 +1,9 @@
+{
+	"name": "atullutaadf",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "47c99275-4b57-4478-bc2b-bf008d72a7d7",
+		"tenantId": "8930685a-50b2-43ae-8df8-8edef3eb35fa"
+	}
+}

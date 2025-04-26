@@ -1,5 +1,13 @@
 {
 	"name": "atullutaadf",
+	"properties": {
+		"globalParameters": {
+			"sade": {
+				"type": "string",
+				"value": "wade"
+			}
+		}
+	},
 	"location": "centralindia",
 	"identity": {
 		"type": "SystemAssigned",
